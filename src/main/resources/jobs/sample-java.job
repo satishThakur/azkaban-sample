@@ -1,0 +1,5 @@
+type=java
+job.class=com.satish.sample.SampleJobExecutor
+author=satish
+name=test.azkaban.server
+dependencies=sample

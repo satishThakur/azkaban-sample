@@ -1,0 +1,9 @@
+.class
+.classpath
+.settings
+.project
+.idea
+workspace.xml
+bin
+target
+bower_components
